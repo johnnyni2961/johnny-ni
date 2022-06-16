@@ -1,15 +1,15 @@
 ---
 date: '2016-04-01'
-title: 'CourseSource'
-github: 'https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project'
+title: 'TBD'
+github: 'https://johnny-ni.vercel.app/'
 external: ''
 tech:
-  - Angular
-  - Node
-  - Express
-  - MongoDB
+  - TBD
+  - TBD
+  - TBD
+  - TBD
 company: 'Northeastern'
 showInProjects: false
 ---
 
-Web application built on the MEAN (MongoDB, Express, Angular, Node) stack with the intention of providing Northeastern students a better experience browsing the courses offered at Northeastern.
+TBD event
