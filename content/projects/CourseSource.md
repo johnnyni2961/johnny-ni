@@ -8,7 +8,7 @@ tech:
   - TBD
   - TBD
   - TBD
-company: 'Northeastern'
+company: 'TBD'
 showInProjects: false
 ---
 
