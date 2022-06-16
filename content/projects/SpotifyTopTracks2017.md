@@ -1,13 +1,13 @@
 ---
 date: '2018-04-20'
-title: 'Spotify’s Top Tracks of 2017'
-github: 'https://github.com/bchiang7/spotify-top-tracks-2017'
-external: ''
+title: 'TBD'
+github: 'https://johnny-ni.vercel.app/'
+external: 'https://johnny-ni.vercel.app/'
 tech:
-  - R
-  - Spotify Web API
-company: 'Northeastern'
-showInProjects: false
+  - TBD
+  - TBD
+company: 'TBD'
+showInProjects: true
 ---
 
-R Project for my Data Science class at Northeastern to analyze the top Spotify tracks of 2017 and their audio features.
+TBD event
