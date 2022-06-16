@@ -1,14 +1,14 @@
 ---
 date: '2019-11-12'
-title: 'Moms Demand Action Mobile App'
-github: ''
-external: 'https://www.upstatement.com/work/moms-demand-action/'
-ios: 'https://apps.apple.com/us/app/demand-action/id1475502876'
-android: 'https://play.google.com/store/apps/details?id=com.momsdemandaction.app'
+title: 'TBD'
+github: 'https://johnny-ni.vercel.app/'
+external: 'https://johnny-ni.vercel.app/'
+ios: 'https://johnny-ni.vercel.app/'
+android: 'https://johnny-ni.vercel.app/'
 tech:
-  - NativeScript Vue
-  - iOS
-  - Android
-company: 'Upstatement'
+  - TBD
+  - TBD
+  - TBD
+company: 'TBD'
 showInProjects: false
 ---
