@@ -173,7 +173,7 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+    <a className="resume-button" href="https://even-road-d0e.notion.site/Resume-Requesting-More-Info-d7057b1218324ef4a2b4d06394592590" target="_blank" rel="noopener noreferrer">
       Resume
     </a>
   );
