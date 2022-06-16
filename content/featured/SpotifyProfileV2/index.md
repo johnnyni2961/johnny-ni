@@ -1,16 +1,16 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'Moderator/TBD'
+cover: './joystick.PNG'
+external: 'https://joystickgames.com/'
+cta: 'https://joystickgames.com/'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Web3
+  - Gaming
+  - Ecosystem
+  - Monetization
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
+JoyStick is the Next-Gen Gaming Ecosystem to empowers players to make money playing the games they love.
 
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+The gaming industry is currently valued at approximately $180 billion per year. This is based on consumer spending on games and in-game economies. With the massive growth the last 2 years in the Play2Earn and blockchain gaming space, it’s clear that P2E, GameFi and Metaverse economies are the future and are rapidly taking over gaming market share.Joystick is introducing GameFi as a Service (GaaS), improving upon the existing P2E model and delivering greater freedom to players. The platform will enable players to earn money doing what they love by providing access to lend or rent the most valuable NFT gaming assets on the blockchain.
