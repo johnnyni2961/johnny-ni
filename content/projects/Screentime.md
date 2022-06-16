@@ -1,6 +1,6 @@
 ---
 date: '2016-11-01'
-title: 'TBD'
+title: 'Second Event'
 github: 'https://johnny-ni.vercel.app/'
 external: 'https://johnny-ni.vercel.app/'
 android: 'https://johnny-ni.vercel.app/'
