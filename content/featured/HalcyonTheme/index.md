@@ -1,15 +1,15 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'ASOSHI'
+cover: './asoshilogo.PNG'
+github: 'https://asoshi-landing.vercel.app/'
+external: 'https://t.co/eFjropqHUD'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Gen-Z
+  - Networking
+  - Swipe Match
+  - Chat SYstem
+  - Community
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+ASOSHI is a tech startup building a Gen-Z exclusive networking platform seeking to simplify the team forming process. Startup ideas are underrated, but the team behind the wheels are forgotten. Currently beta-testing on [ASOSHI appw](https://weareasoshi.com/), landing page is [here](https://asoshi-landing.vercel.app/), Gen-Z community is [here](https://t.co/eFjropqHUD), and Twitter is [here](https://twitter.com/weareasoshi).
