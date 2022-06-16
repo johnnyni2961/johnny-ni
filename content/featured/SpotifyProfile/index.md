@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Pinnacle Hackathon'
+cover: './pinnacle.png'
+github: 'https://pinnacle.us.org/hackathons'
+external: 'https://pinnacle.us.org/'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - HackMIT
+  - HackNYU
+  - PennApps
+  - HackDuke
+  - Cal Hacks
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Pinnacle invites the winning team from each of the world’s largest 50 collegiate hackathons and 5 high school hackathons to compete in an epic hack-off. Pinnacle 2021 took place on September 17-19, 2021 in Dallas, TX.
