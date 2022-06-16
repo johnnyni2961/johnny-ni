@@ -1,7 +1,7 @@
 ---
 date: '2016-12-21'
 title: 'Developer'
-company: 'University of California, Berkeley'
+company: 'UC Berkeley'
 location: 'Berkeley, CA'
 range: 'July 2021 - Present'
 url: 'https://www.microsoft.com/en-us/research/collaboration/bair/'
