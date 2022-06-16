@@ -1,16 +1,13 @@
 ---
 date: '2020-08-02'
-title: 'The 19th News'
+title: 'TBD'
 github: ''
-external: 'https://19thnews.org/'
+external: 'https://johnny-ni.vercel.app/'
 tech:
-  - WordPress
-  - Timber
-  - Gutenberg
-  - PHP
-  - JS
-  - Mailchimp
-  - AMP
-company: 'Upstatement'
+  - TBD
+  - TBD
+  - TBD
+  - TBD
+company: 'TBD'
 showInProjects: false
 ---
