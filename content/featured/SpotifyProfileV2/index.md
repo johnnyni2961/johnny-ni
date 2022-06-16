@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Moderator/TBD'
+title: 'Joystick'
 cover: './joystick.PNG'
 external: 'https://joystickgames.com/'
 cta: 'https://joystickgames.com/'
