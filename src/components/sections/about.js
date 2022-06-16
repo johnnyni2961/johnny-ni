@@ -151,7 +151,7 @@ const About = () => {
             </p>
 
             <p>
-              Recently, I've also been involved in a web3 gaming ecosystem, {' '}
+              Recently, I've also been involved as a mod for web3 gaming ecosystem, {' '}
               <a href="https://joystickgames.com/">
                 JoyStick
               </a>{' '}
