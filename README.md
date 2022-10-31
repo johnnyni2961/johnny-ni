@@ -5,9 +5,6 @@
   Johnny Ni
 </h1>
 
-### CREDITS
-
-Credits to: [brittanychiang.com](https://brittanychiang.com). Epic theme and website idea/structure and all that cool stuff, be sure to check her repo out!
 
 ## 🛠 Installation & Set Up
 
