@@ -107,9 +107,6 @@ const Footer = () => {
       <StyledCredit tabindex="-1">
         <a href="https://www.youtube.com/watch?v=dFU2X5CFp5I">
           <div>Check out my favorite song as of now...</div>
-
-          {githubInfo.stars && githubInfo.forks && (
-          )}
         </a>
       </StyledCredit>
     </StyledFooter>
