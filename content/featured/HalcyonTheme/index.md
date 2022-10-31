@@ -12,4 +12,4 @@ tech:
   - Community
 ---
 
-ASOSHI is a tech startup building a Gen-Z exclusive networking platform seeking to simplify the team forming process. Startup ideas are underrated, but the team behind the wheels are forgotten. Currently beta-testing on [ASOSHI app](https://weareasoshi.com/), landing page is [here](https://asoshi-landing.vercel.app/), Gen-Z community is [here](https://t.co/eFjropqHUD), and Twitter is [here](https://twitter.com/weareasoshi).
+ASOSHI is a social consumer startup. TLDR: Networking platform that simplifies the founder search process. Startup ideas are underrated, but it's ultimately the team behind the wheels that gets it done. Currently beta-testing, landing page is [here](https://weareasoshi.com/). Currently backed by CMU & Northwestern Startup Garage accelerators.
